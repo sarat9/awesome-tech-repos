@@ -21,6 +21,7 @@ A collection of awesome browser-side JavaScript libraries, resources and shiny t
 A curated list of awesome Java frameworks, libraries and software.
 
 * [awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome Java frameworks, libraries and software.
+* [useful-java-links](https://github.com/Vedenin/useful-java-links) - A curated list of awesome Java softwares, libraries and software.
 
 ## Microservices
 A curated list of Microservice Architecture related principles and technologies.
