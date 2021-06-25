@@ -1,5 +1,7 @@
 # awesome-tech-repos
 A collection of awesome frameworks, libraries, resources and shiny things of all programming languages.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
+
 
 
 ## JavaScript
@@ -20,9 +22,21 @@ A curated list of awesome Java frameworks, libraries and software.
 
 * [awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome Java frameworks, libraries and software.
 
+## Microservices
+A curated list of Microservice Architecture related principles and technologies.
+
+* [awesome-microservices](https://github.com/mfornos/awesome-microservices) - A curated list of Microservice Architecture related principles and technologies.
+
 ## Cheatsheets
 📚 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 
 * [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
+
+
+## Testing
+A curated list of awesome Testing frameworks, libraries and software.
+
+* [awesome-selenium](https://github.com/christian-bromann/awesome-selenium) - A curated list of delightful Selenium resources.
+
 
 
