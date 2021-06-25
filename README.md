@@ -1,6 +1,14 @@
 # awesome-tech-repos
 A collection of awesome frameworks, libraries, resources and shiny things of all programming languages.
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
+
+> Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
+
+
+
+## Collection of Collection
+A collection of awesome collections of all technologies
+* [awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+
 
 
 
@@ -15,7 +23,7 @@ A collection of awesome browser-side JavaScript libraries, resources and shiny t
 
 * [awesome-react-components](https://github.com/brillout/awesome-react-components) - Absolutely Awesome React Components & Libraries
 * [awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding the React ecosystem.
-
+* [awesome-react-hooks](https://github.com/glauberfc/awesome-react-hooks) - A curated list about React Hooks.
 
 ## Java
 A curated list of awesome Java frameworks, libraries and software.
