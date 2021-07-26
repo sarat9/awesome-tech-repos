@@ -49,3 +49,13 @@ A curated list of awesome Testing frameworks, libraries and software.
 
 
 
+
+##
+## Helful links
+
+* [public-apis](https://github.com/public-apis/public-apis) - A curated list of Public free APIs.
+
+
+
+
+
