@@ -66,6 +66,7 @@ A curated list of awesome links and resources.
 ## Helful links
 
 * [public-apis](https://github.com/public-apis/public-apis) - A curated list of Public free APIs.
+* [awesome-travel](https://github.com/unseen1980/awesome-travel) - A curated list of awesome travel resources to help you build the next travel app.
 
 
 
