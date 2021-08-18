@@ -25,6 +25,12 @@ A collection of awesome browser-side JavaScript libraries, resources and shiny t
 * [awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding the React ecosystem.
 * [awesome-react-hooks](https://github.com/glauberfc/awesome-react-hooks) - A curated list about React Hooks.
 
+
+## CSS
+
+* [styleguide](https://github.com/google/styleguide) - Google Style Guides with a set of conventions (sometimes arbitrary) about how to write code for that project. It is much easier to understand a large codebase when all the code in it is in a consistent style.
+
+
 ## Java
 A curated list of awesome Java frameworks, libraries and software.
 
@@ -46,6 +52,7 @@ A curated list of Microservice Architecture related principles and technologies.
 A curated list of awesome Testing frameworks, libraries and software.
 
 * [awesome-selenium](https://github.com/christian-bromann/awesome-selenium) - A curated list of delightful Selenium resources.
+
 
 
 ## Bookmarks
