@@ -48,6 +48,11 @@ A curated list of awesome Testing frameworks, libraries and software.
 * [awesome-selenium](https://github.com/christian-bromann/awesome-selenium) - A curated list of delightful Selenium resources.
 
 
+## Bookmarks
+A curated list of awesome links and resources.
+
+* [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - A list of frontend developer bookmarks.
+
 
 
 ##
